@@ -1,5 +1,4 @@
 # Python_assignment_2
-Assignment 2
 Task 1
 A number is even if it is perfectly divisible by 2, meaning it leaves a remainder of 0 when divided by 2. It is odd if the remainder is 1.
 
